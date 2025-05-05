@@ -11,7 +11,7 @@
 
 | 파일명 | 설명 |
 |--------|------|
-| `agile-adoption.md` | 애자일 도입 과정과 팀에 맞게 최적화한 방법 회고 |
+| [바로각기](./2025/agile-adoption.md) | 애자일 도입 과정과 팀에 맞게 최적화한 방법 회고 |
 | `sprint-retrospectives.md` | 스프린트 회고 정리, 어떤 변화가 있었고 어떤 교훈을 얻었는지 |
 | `team-collaboration.md` | 협업 도구/문화에 대한 개인적 경험과 인사이트 |
 | `dev-culture-notes.md` | "좋은 개발 문화란 무엇인가?"에 대한 고민 정리 |
