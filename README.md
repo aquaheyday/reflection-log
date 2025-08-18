@@ -9,6 +9,7 @@
 
 | 파일명 | 설명 |
 |--------|------|
+| [code-review-culture-transition.md](./2025/code-review-culture-transition.md) |  코드리뷰 문화 도입을 위한 중간 단계 회고록 |
 | [agile-adoption.md](./2025/agile-adoption.md) | 애자일 도입 과정과 팀에 맞게 최적화한 방법 회고 |
 | [2023-coupang-price.md](./notes/2023-coupang-price.md) | 로켓설치 상품의 시간대별 가격 변동을 수기로 기록하여 최저가 구매 시점을 찾아보기 |
 
